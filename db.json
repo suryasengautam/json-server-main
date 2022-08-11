@@ -1,0 +1,31 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "ram charit manas"
+    },
+    {
+      "id": 2,
+      "name": "jackpot"
+    },
+    {
+      "name": "wise men fear",
+      "author": "patric rothflush",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "wings of fire"
+    }
+  ],
+  "author": [
+    {
+      "id": 1,
+      "name": "tulasidas"
+    },
+    {
+      "id": 2,
+      "name": "vikash"
+    }
+  ]
+}
